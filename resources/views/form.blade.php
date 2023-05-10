@@ -10,7 +10,7 @@
     <input type="number" name="age" id="age" value="{{ isset($pet)?$pet->age:'' }}" /><br />
     @error('age')
     <div class="alert alert-danger">
-            {{ $message }}
+            {{ $message }}   
         </div>
     @enderror
     <br />

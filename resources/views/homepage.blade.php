@@ -26,7 +26,7 @@
                   <li class="nav-item">
                     <a class="nav-link" href="#">Visualizar datos</a>
                   </li
-              </div>
+              </div>  
             </div>
           </nav>
     </header>
